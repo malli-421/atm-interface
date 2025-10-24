@@ -70,4 +70,6 @@ int main() {
         }
     } while (option != 4); // Loop until user chooses to exit
     return 0;
+
+printf("Mallikarjuna");
 }
